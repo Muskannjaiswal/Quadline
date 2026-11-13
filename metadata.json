@@ -1,0 +1,6 @@
+{
+  "name": "Quadline",
+  "description": "College event and technical competition discovery portal with a personalized student dashboard for tracking registrations and live event notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
